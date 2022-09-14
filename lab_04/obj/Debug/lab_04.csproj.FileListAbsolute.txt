@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\10mo semestre\Topicos selectos de computacion 3\Trabajos\lab_04\bin\Debug\lab_04.exe
+C:\Users\Dell\Desktop\10mo semestre\Topicos selectos de computacion 3\Trabajos\lab_04\bin\Debug\lab_04.pdb
+C:\Users\Dell\Desktop\10mo semestre\Topicos selectos de computacion 3\Trabajos\lab_04\obj\Debug\lab_04.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\10mo semestre\Topicos selectos de computacion 3\Trabajos\lab_04\obj\Debug\lab_04.MainForm.resources
+C:\Users\Dell\Desktop\10mo semestre\Topicos selectos de computacion 3\Trabajos\lab_04\obj\Debug\lab_04.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\10mo semestre\Topicos selectos de computacion 3\Trabajos\lab_04\obj\Debug\lab_04.exe
+C:\Users\Dell\Desktop\10mo semestre\Topicos selectos de computacion 3\Trabajos\lab_04\obj\Debug\lab_04.pdb
+C:\Users\Dell\Desktop\Cosas UDG\10mo semestre\Topicos selectos de computacion 3\Trabajos\lab_04\bin\Debug\lab_04.exe
+C:\Users\Dell\Desktop\Cosas UDG\10mo semestre\Topicos selectos de computacion 3\Trabajos\lab_04\bin\Debug\lab_04.pdb
+C:\Users\Dell\Desktop\Cosas UDG\10mo semestre\Topicos selectos de computacion 3\Trabajos\lab_04\obj\Debug\lab_04.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Cosas UDG\10mo semestre\Topicos selectos de computacion 3\Trabajos\lab_04\obj\Debug\lab_04.MainForm.resources
+C:\Users\Dell\Desktop\Cosas UDG\10mo semestre\Topicos selectos de computacion 3\Trabajos\lab_04\obj\Debug\lab_04.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Cosas UDG\10mo semestre\Topicos selectos de computacion 3\Trabajos\lab_04\obj\Debug\lab_04.exe
+C:\Users\Dell\Desktop\Cosas UDG\10mo semestre\Topicos selectos de computacion 3\Trabajos\lab_04\obj\Debug\lab_04.pdb
